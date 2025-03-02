@@ -150,7 +150,7 @@ MonoBehaviour:
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"},"typeHandle":{"Identification":"System.Collections.Generic.List`1[[System.Int32,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"blockType","value":{"$content":0,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
-      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"colors","value":{"$content":[{"r":0.8339623,"g":0.8057514,"b":0.4390103,"a":0.0},{"r":0.7056604,"g":0.638536,"b":0.4833108,"a":0.0},{"r":0.6679245,"g":0.6679245,"b":0.5129156,"a":0.0},{"r":0.9773585,"g":0.970831,"b":0.5661303,"a":0.0}],"$type":"System.Collections.Generic.List`1[[UnityEngine.Color,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"colors","value":{"$content":[{"r":0.9320754,"g":0.8848535,"b":0.3358989,"a":0.0},{"r":0.8339623,"g":0.667363,"b":0.2753648,"a":0.0},{"r":0.7132075,"g":0.7132075,"b":0.2677892,"a":0.0},{"r":0.9018868,"g":0.894448,"b":0.1208188,"a":0.0}],"$type":"System.Collections.Generic.List`1[[UnityEngine.Color,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"typeHandle":{"Identification":"System.Collections.Generic.List`1[[UnityEngine.Color,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
